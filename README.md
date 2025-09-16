@@ -39,7 +39,7 @@ The ontology covers:
 ---
 
 ## 🚀 How to Use
-1. Open `ontology.owl` in **Protégé**.  
+1. Open `TP_RCR_ABOUD_BOUYAKOUB_RDF.rdf` in **Protégé**.  
 2. Explore the classes, properties, and relationships.  
 3. Validate and test using reasoning tools in Protégé.  
 4. Extend or adapt the ontology to new healthcare scenarios.  
